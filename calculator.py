@@ -16,6 +16,8 @@ def add(a: float, b: float):
 def sub(a: float, b: float):
     return a - b
 
+subtract = sub
+
 def mul(a: float, b: float):
     return a * b
 
@@ -33,5 +35,17 @@ def log(a: float, b: float):
     except:
         raise ValueError
     
+logarithm = log
+    
 def exp(a: float, b: float):
     return math.pow(a, b)
+
+def sqrt(a: float):
+    return math.sqrt(a)
+
+square_root = sqrt
+
+def hypot(a: float, b: float):
+    return math.hypot(a, b)
+
+hypotenuse = hypot
