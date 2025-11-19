@@ -1,5 +1,7 @@
 import math
-
+#https://github.com/peterbatarseh/lab10-PB-DP
+#Partner 1: Peter Bataresh
+#Partner 2: David Pusey
 """
 calculator.py
 - Defines functions used to create a simple calculators
