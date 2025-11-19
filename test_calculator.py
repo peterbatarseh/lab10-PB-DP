@@ -1,3 +1,6 @@
+#https://github.com/peterbatarseh/lab10-PB-DP
+#Partner 1: Peter Bataresh
+#Partner 2: David Pusey
 import unittest
 from calculator import *
 
